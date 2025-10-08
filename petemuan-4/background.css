@@ -7,17 +7,17 @@ div {
     rgba(237, 221, 83, 1) 100%
   );
 }
- div h3{
-    /* background: #4c9b2a; */
-background: linear-gradient(90deg,rgba(76, 155, 42, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+div h3 {
+  /* background: #4c9b2a; */
+  background: linear-gradient(
+    90deg,
+    rgba(76, 155, 42, 1) 0%,
+    rgba(87, 199, 133, 1) 50%,
+    rgba(237, 221, 83, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
 
- }
 
- body{
-    background-image:url('./johnson-martin-zpq2DMidOY0-unsplash.jpg') ;
- }
-
-
-
+    
